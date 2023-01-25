@@ -335,7 +335,7 @@ begin2('Welcome');
     <!--contact-area end-->
 
     <!-- testimonial area start -->
-    <div class="testimonial-area pd-top-115 pd-bottom-120">
+    <!-- <div class="testimonial-area pd-top-115 pd-bottom-120">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -400,7 +400,7 @@ begin2('Welcome');
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- testimonial area end -->
 
     <!-- portfolio area start -->
