@@ -319,87 +319,6 @@ begin2('Welcome');
     </div>
     <!--fact-area end-->
 
-    <!--team-area start-->
-    <div class="team-area pd-top-115">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <div class="section-title text-center">
-                        <h4 class="subtitle">TEAM MEMBERS</h4>
-                        <h2 class="title">OUR PROFESSIONAL TEAM</h2>
-                        <p>Dramatically enhance interactive metrics for reliable services. Proactively unleash fully researched e-commerce.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="team-slider owl-carousel">
-                        <div class="item">
-                            <div class="single-team-wrap">
-                                <div class="thumb">
-                                    <img src="https://www.wowtheme7.com/tf/transpro/assets/img/team/1.png" alt="img">
-                                </div>
-                                <div class="details">
-                                    <h5>MICHEL RICHARD</h5>
-                                    <p>Director & CEO</p>
-                                    <div class="hover-icon">
-                                        <i class="fa fa-plus"></i>
-                                        <ul class="social-area">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="single-team-wrap">
-                                <div class="thumb">
-                                    <img src="https://www.wowtheme7.com/tf/transpro/assets/img/team/2.png" alt="img">
-                                </div>
-                                <div class="details">
-                                    <h5>ANJELINA ROSEE</h5>
-                                    <p>Founder</p>
-                                    <div class="hover-icon">
-                                        <i class="fa fa-plus"></i>
-                                        <ul class="social-area">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="single-team-wrap">
-                                <div class="thumb">
-                                    <img src="https://www.wowtheme7.com/tf/transpro/assets/img/team/3.png" alt="img">
-                                </div>
-                                <div class="details">
-                                    <h5>MISHEL MARSH</h5>
-                                    <p>Co-Founder</p>
-                                    <div class="hover-icon">
-                                        <i class="fa fa-plus"></i>
-                                        <ul class="social-area">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-whatsapp"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>                    
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--team-area end-->
 
     <!--contact-area start-->
     <div class="call-to-contact-area pd-top-240" style="background: #F9F9F9;">
@@ -419,10 +338,10 @@ begin2('Welcome');
                             </div>
                             <div class="details">
                                 <h6>Have Any Question</h6>
-                                <h3>+19524357106</h3>
+                                <h3><?= app1('appcontact') ?></h3>
                             </div>
                         </div>
-                        <a class="btn btn-base" href="contact.html">CONTACT US</a>
+                        <a class="btn btn-base" href="contact">CONTACT US</a>
                     </div>                    
                 </div>
             </div>
