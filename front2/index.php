@@ -173,9 +173,7 @@ begin2('Welcome');
                         <div class="details">
                             <h5>SEA TRANSPORTATION</h5>
                             <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
-                            <div class="btn-wrap">
-                                <a class="read-more-text" href="service-details.html">READ MORE <span><i class="fa fa-arrow-right"></i></span></a>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -190,9 +188,7 @@ begin2('Welcome');
                         <div class="details">
                             <h5>AIR TRANSPORTATION</h5>
                             <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
-                            <div class="btn-wrap">
-                                <a class="read-more-text" href="service-details.html">READ MORE <span><i class="fa fa-arrow-right"></i></span></a>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -207,9 +203,7 @@ begin2('Welcome');
                         <div class="details">
                             <h5>WAREHOUSING</h5>
                             <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
-                            <div class="btn-wrap">
-                                <a class="read-more-text" href="service-details.html">READ MORE <span><i class="fa fa-arrow-right"></i></span></a>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
