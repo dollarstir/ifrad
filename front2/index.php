@@ -236,7 +236,7 @@ begin2('Welcome');
                         </div>
                         <div class="details">
                             <h6>FAST TRANSPORTION SERVICE</h6>
-                            <p>Enhance interactive metrics for reliable services. Proactively unleash fully researched.</p>
+                            <!-- <p>Enhance interactive metrics for reliable services. Proactively unleash fully researched.</p> -->
                         </div>
                     </div>
                     <div class="single-wcu-wrap">
@@ -245,7 +245,7 @@ begin2('Welcome');
                         </div>
                         <div class="details">
                             <h6>24/7 ONLINE SUPPORT</h6>
-                            <p>Enhance interactive metrics for reliable services. Proactively unleash fully researched.</p>
+                            <!-- <p>Enhance interactive metrics for reliable services. Proactively unleash fully researched.</p> -->
                         </div>
                     </div>
                     <div class="single-wcu-wrap">
@@ -254,7 +254,7 @@ begin2('Welcome');
                         </div>
                         <div class="details">
                             <h6>SAFETY AND RELIABILITY</h6>
-                            <p>Enhance interactive metrics for reliable services. Proactively unleash fully researched.</p>
+                            <!-- <p>Enhance interactive metrics for reliable services. Proactively unleash fully researched.</p> -->
                         </div>
                     </div>
                 </div>
