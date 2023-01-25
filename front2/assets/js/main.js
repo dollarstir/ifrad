@@ -122,8 +122,8 @@
         /* -----------------------------------------------------
             Variables
         ----------------------------------------------------- */
-        var leftArrow = '<img src="assets/img/icon/left-arrow.png">';
-        var rightArrow = '<img src="assets/img/icon/right-arrow.png">';
+        var leftArrow = '<img src="front2/assets/img/icon/left-arrow.png">';
+        var rightArrow = '<img src="front2/assets/img/icon/right-arrow.png">';
 
         /*------------------------------------------------
             banner-slider
@@ -138,7 +138,7 @@
             dots: false,
             items: 1,
             smartSpeed: 1800,
-            navText: ['<img src="assets/img/icon/left-arrow.png"/>','<img src="assets/img/icon/right-arrow.png"/>'],           
+            navText: ['<img src="front2/assets/img/icon/left-arrow.png"/>','<img src="front2/assets/img/icon/right-arrow.png"/>'],           
         });
 
         
@@ -154,7 +154,7 @@
             items: 3,
             loop: true,
             autoplay:true,
-            navText: ['<img src="assets/img/icon/left-arrow.png"/>','<img src="assets/img/icon/right-arrow.png"/>'],           
+            navText: ['<img src="front2/assets/img/icon/left-arrow.png"/>','<img src="front2/assets/img/icon/right-arrow.png"/>'],           
             responsive : {                
                 769 : {
                     items: 3,
@@ -179,7 +179,7 @@
             items: 3,
             loop: true,
             autoplay:true,
-            navText: ['<img src="assets/img/icon/left-arrow.png"/>','<img src="assets/img/icon/right-arrow.png"/>'],           
+            navText: ['<img src="front2/assets/img/icon/left-arrow.png"/>','<img src="front2/assets/img/icon/right-arrow.png"/>'],           
             responsive : {                
                 769 : {
                     items: 3,
@@ -204,7 +204,7 @@
             items: 3,
             loop: true,
             autoplay:true,
-            navText: ['<img src="assets/img/icon/left-arrow.png"/>','<img src="assets/img/icon/right-arrow.png"/>'],           
+            navText: ['<img src="front2/assets/img/icon/left-arrow.png"/>','<img src="front2/assets/img/icon/right-arrow.png"/>'],           
             responsive : {                
                 769 : {
                     items: 3,
@@ -256,7 +256,7 @@
             items: 3,
             loop: true,
             autoplay:true,
-            navText: ['<img src="assets/img/icon/left-arrow.png"/>','<img src="assets/img/icon/right-arrow.png"/>'],           
+            navText: ['<img src="front2/assets/img/icon/left-arrow.png"/>','<img src="front2/assets/img/icon/right-arrow.png"/>'],           
             responsive : {                
                 769 : {
                     items: 3,

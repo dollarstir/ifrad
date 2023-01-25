@@ -21,15 +21,15 @@ begin2('Welcome');
                                     SERVICE</h1>
                                 <p class="b-animate-3 content">Professionally strategize stand-alone functionalities and cooperative total linkage. Objectively predominate virtual quality vectors with orthogonal.</p>
                                 <div class="btn-wrap">
-                                    <a class="btn btn-base b-animate-4" href="service.html"> Explore The Services</a>
-                                    <a class="btn btn-white b-animate-4" href="contact.html">Contact Us</a>
+                                    <a class="btn btn-base b-animate-4" href="services"> Explore The Services</a>
+                                    <a class="btn btn-white b-animate-4" href="contact">Contact Us</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="item" style="background: url(assets/img/banner/2.png);">
+            <div class="item" style="background: url(front2/assets/img/banner/2.png);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-7 col-md-8">
@@ -39,8 +39,8 @@ begin2('Welcome');
                                     SERVICE</h1>
                                 <p class="b-animate-3 content">Professionally strategize stand-alone functionalities and cooperative total linkage. Objectively predominate virtual quality vectors with orthogonal.</p>
                                 <div class="btn-wrap">
-                                    <a class="btn btn-base b-animate-4" href="service.html"> Explore The Services</a>
-                                    <a class="btn btn-white b-animate-4" href="contact.html">Contact Us</a>
+                                    <a class="btn btn-base b-animate-4" href="services"> Explore The Services</a>
+                                    <a class="btn btn-white b-animate-4" href="contact">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -140,7 +140,7 @@ begin2('Welcome');
                                     </div>
                                 </div>
                                 <div class="btn-wrap">
-                                    <a class="btn btn-base" href="about.html">ABOUT MORE</a>
+                                    <a class="btn btn-base" href="about">ABOUT MORE</a>
                                     <div class="author-wrap">
                                         <div class="thumb"><img src="front2/assets/img/about/4.png" alt="img"></div>
                                         <div class="details">
@@ -159,7 +159,7 @@ begin2('Welcome');
     <!-- about area end -->
 
     <!-- service area start -->
-    <div class="service-area pd-top-115 pd-bottom-90 pb-lg-0" style="background: url(assets/img/service/bg.png);">
+    <div class="service-area pd-top-115 pd-bottom-90 pb-lg-0" style="background: url(front2/assets/img/service/bg.png);">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-7">
@@ -280,7 +280,7 @@ begin2('Welcome');
 
     <!--fact-area start-->
     <div class="container">
-        <div class="fact-counter-area" style="background: url(assets/img/fact/bg.png);">
+        <div class="fact-counter-area" style="background: url(front2/assets/img/fact/bg.png);">
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6">
                     <div class="single-fact-wrap">
