@@ -55,17 +55,17 @@ begin2('Welcome');
     <div class="container">
         <div class="feature-area mb-60">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-10">
                     <div class="section-title mb-0">
                         <h4 class="subtitle">FEATURES</h4>
                         <h2 class="title">WHAT WE OFFER</h2>
                     </div>
                 </div>
-                <div class="col-lg-6 align-self-center">
+                <!-- <div class="col-lg-6 align-self-center">
                     <div class="section-title">
                         <p class="content left-line">Collaboratively customize front-end materials with standardized infomediaries. Holisticly engineer performance based value. Assertively benchmark turnkey web-readiness rather than long.</p>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="feature-slider owl-carousel">
                 <div class="item">
@@ -74,7 +74,7 @@ begin2('Welcome');
                             <img src="front2/assets/img/icon/feature-1.png" alt="img">
                         </div>
                         <h5>TRANSPARENT PRICING</h5>
-                        <p>Globally initiate resource maximizing total linkage via enabled process improvements.</p>
+                        <!-- <p>Globally initiate resource maximizing total linkage via enabled process improvements.</p> -->
                     </div>
                 </div>
                 <div class="item">
@@ -83,7 +83,7 @@ begin2('Welcome');
                             <img src="front2/assets/img/icon/feature-2.png" alt="img">
                         </div>
                         <h5>ONLINE TRACKING</h5>
-                        <p>Globally initiate resource maximizing total linkage via enabled process improvements.</p>
+                        <!-- <p>Globally initiate resource maximizing total linkage via enabled process improvements.</p> -->
                     </div>
                 </div>
                 <div class="item">
@@ -92,7 +92,7 @@ begin2('Welcome');
                             <img src="front2/assets/img/icon/feature-3.png" alt="img">
                         </div>
                         <h5>WAREHOUSE STORAGE</h5>
-                        <p>Globally initiate resource maximizing total linkage via enabled process improvements.</p>
+                        <!-- <p>Globally initiate resource maximizing total linkage via enabled process improvements.</p> -->
                     </div>
                 </div>
             </div>
@@ -113,7 +113,7 @@ begin2('Welcome');
                             <div class="exprience-wrap">
                                 <img src="front2/assets/img/about/shape-3.png" alt="img">
                                 <div class="details">
-                                    <h1>22</h1>
+                                    <h1>4</h1>
                                     <p>YEARS EXPERIENCE</p>
                                 </div>
                             </div>
@@ -125,7 +125,7 @@ begin2('Welcome');
                                 <h4 class="subtitle">ABOUT US</h4>
                                 <h2 class="title">WELCOME WORLD WIDE BEST
                                         TRANSPORT COMPANY</h2>
-                                <p class="content left-line">Competently implement efficient e-commerce without cross-unit growth strategies.</p>
+                                <p class="content left-line"><?= substr(app1('appabout'), 0, 50); ?></p>
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-12 col-md-6">
                                         <ul class="list-inner-wrap mb-mb-0 mb-3 mb-lg-3 mb-xl-0">
@@ -264,7 +264,7 @@ begin2('Welcome');
     <!--wcu-area end-->
 
     <!--fact-area start-->
-    <div class="container">
+    <!-- <div class="container">
         <div class="fact-counter-area" style="background: url(front2/assets/img/fact/bg.png);">
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6">
@@ -301,7 +301,7 @@ begin2('Welcome');
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!--fact-area end-->
 
 
