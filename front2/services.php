@@ -158,7 +158,7 @@ begin2('Services');
                                 <h3><?=app1('appcontact'); ?></h3>
                             </div>
                         </div>
-                        <a class="btn btn-base" href="contact.html">CONTACT US</a>
+                        <a class="btn btn-base" href="contact">CONTACT US</a>
                     </div>                    
                 </div>
             </div>
