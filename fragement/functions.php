@@ -48,9 +48,8 @@ function begin2($title = '')
     </head>';
 }
 
-
-function topnav2(){
-
+function topnav2()
+{
     echo '<!-- preloader area start -->
     <div class="preloader" id="preloader">
         <div class="preloader-inner">
@@ -79,7 +78,7 @@ function topnav2(){
         <div class="navbar-top">
             <div class="logo d-none d-lg-block">
             <!-- logo white-->
-                <a class="main-logo" href="home"><img src="yolkassets/upload/'.app1('applogo').'" alt="img"></a>
+                <a class="main-logo" href="home"><img src="yolkassets/upload/'.app1('applogo').'" alt="img" style=" width:150px;height:70px;margin-left:150px;"></a>
             </div>
             <div class="nav-phone-wrap">
                 <i class="fas fa-phone-alt"></i>
@@ -167,8 +166,8 @@ function topnav2(){
     <!-- navbar end -->';
 }
 
-
-function foot2(){
+function foot2()
+{
     echo '<!-- footer area start -->
     <footer class="footer-area">
         <div class="footer-top" style="background-image: url(front2/assets/img/footer/bg.png);">
@@ -221,7 +220,7 @@ function foot2(){
                             <img src="yolkassets/upload/'.app1('applogo').'" alt="img">
                         </div>
                         <div class="details">
-                            <p>'.substr(app1('appabout'),0,50).'...</p>
+                            <p>'.substr(app1('appabout'), 0, 50).'...</p>
                             <ul class="social-media style-border">
                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -307,7 +306,6 @@ function foot2(){
 </body>
 </html>';
 }
-
 
 // end of theme 2 functions *****************************************
 // ********************************************************************
