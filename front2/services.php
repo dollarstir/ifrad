@@ -1,7 +1,7 @@
 <?php
 involve('functions.php');
 
-begin2('Services'); 
+begin2('Services');
 
 ?>
 <body>
@@ -52,7 +52,7 @@ begin2('Services');
                         </div>
                         <div class="details">
                             <h5>SEA TRANSPORTATION</h5>
-                            <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
+                            <!-- <p>Intrinsicly exploit e-business imperative with emerging human capital.</p> -->
                             
                         </div>
                     </div>
@@ -67,7 +67,7 @@ begin2('Services');
                         </div>
                         <div class="details">
                             <h5>AIR TRANSPORTATION</h5>
-                            <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
+                            <!-- <p>Intrinsicly exploit e-business imperative with emerging human capital.</p> -->
                             
                         </div>
                     </div>
@@ -82,7 +82,7 @@ begin2('Services');
                         </div>
                         <div class="details">
                             <h5>WAREHOUSING</h5>
-                            <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
+                            <!-- <p>Intrinsicly exploit e-business imperative with emerging human capital.</p> -->
                             
                         </div>
                     </div>
@@ -97,7 +97,7 @@ begin2('Services');
                         </div>
                         <div class="details">
                             <h5>ROAD TRANSPORTATION</h5>
-                            <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
+                            <!-- <p>Intrinsicly exploit e-business imperative with emerging human capital.</p> -->
                             
                         </div>
                     </div>
@@ -112,7 +112,7 @@ begin2('Services');
                         </div>
                         <div class="details">
                             <h5>TRAIN TRANSPORTATION</h5>
-                            <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
+                            <!-- <p>Intrinsicly exploit e-business imperative with emerging human capital.</p> -->
                             
                         </div>
                     </div>
@@ -127,7 +127,7 @@ begin2('Services');
                         </div>
                         <div class="details">
                             <h5>LAND TRANSPORTATION</h5>
-                            <p>Intrinsicly exploit e-business imperative with emerging human capital.</p>
+                            <!-- <p>Intrinsicly exploit e-business imperative with emerging human capital.</p> -->
                             
                         </div>
                     </div>
@@ -155,7 +155,7 @@ begin2('Services');
                             </div>
                             <div class="details">
                                 <h6>Have Any Question</h6>
-                                <h3><?=app1('appcontact') ?></h3>
+                                <h3><?=app1('appcontact'); ?></h3>
                             </div>
                         </div>
                         <a class="btn btn-base" href="contact.html">CONTACT US</a>
