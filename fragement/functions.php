@@ -44,6 +44,9 @@ function begin2($title = '')
         <link rel="stylesheet" href="front2/assets/css/vendor.css">
         <link rel="stylesheet" href="front2/assets/css/style.css">
         <link rel="stylesheet" href="front2/assets/css/responsive.css">
+        <meta property="og:image" content="yolkassets/upload/'.app1('applogo').'">
+        <meta property="twitter:image" content="yolkassets/upload/'.app1('applogo').'">
+
     
     </head>';
 }
