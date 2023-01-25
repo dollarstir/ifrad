@@ -1,7 +1,7 @@
 <?php
 involve('functions.php');
 
-begin2('Welcome'); 
+begin2('Welcome');
 
 ?>
 <body>
@@ -139,16 +139,7 @@ begin2('Welcome');
                                         <div class="thumb"><img src="front2/assets/img/about/3.png" alt="img"></div>
                                     </div>
                                 </div>
-                                <div class="btn-wrap">
-                                    <a class="btn btn-base" href="about">ABOUT MORE</a>
-                                    <div class="author-wrap">
-                                        <div class="thumb"><img src="front2/assets/img/about/4.png" alt="img"></div>
-                                        <div class="details">
-                                            <img src="front2/assets/img/about/signature.png" alt="img">
-                                            <p>CEO, Of Company</p>
-                                        </div>
-                                    </div>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -338,7 +329,7 @@ begin2('Welcome');
                             </div>
                             <div class="details">
                                 <h6>Have Any Question</h6>
-                                <h3><?= app1('appcontact') ?></h3>
+                                <h3><?= app1('appcontact'); ?></h3>
                             </div>
                         </div>
                         <a class="btn btn-base" href="contact">CONTACT US</a>
