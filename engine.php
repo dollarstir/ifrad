@@ -4,49 +4,49 @@ require_once 'loader/autoloader.php';
 define('theme', 'front2');
 $router = new Router([
     new Route(
-        '/if',
+        '/',
         function ($context) {
             return Viewer::view(theme.'/index.php', $context);
         }
     ),
 
     new Route(
-        '/if/home',
+        '/home',
         function ($context) {
             return Viewer::view(theme.'/index.php', $context);
         }
     ),
 
     new Route(
-        '/if/about',
+        '/about',
         function ($context) {
             return Viewer::view(theme.'/about.php', $context);
         }
     ),
 
     new Route(
-        '/if/contact',
+        '/contact',
         function ($context) {
             return Viewer::view(theme.'/contact.php', $context);
         }
     ),
 
     new Route(
-        '/if/gallery',
+        '/gallery',
         function ($context) {
             return Viewer::view(theme.'/gallery.php', $context);
         }
     ),
 
     new Route(
-        '/if/track',
+        '/track',
         function ($context) {
             return Viewer::view(theme.'/track.php', $context);
         }
     ),
 
     new Route(
-        '/if/services',
+        '/services',
         function ($context) {
             return Viewer::view(theme.'/services.php', $context);
         }
@@ -55,61 +55,61 @@ $router = new Router([
     // admin side
 
     new Route(
-        '/if/manager',
+        '/manager',
         function ($context) {
             return Viewer::view('back/index.php', $context);
         }
     ),
 
     new Route(
-        '/if/newpackage',
+        '/newpackage',
         function ($context) {
             return Viewer::view('back/addpackage.php', $context);
         }
     ),
     new Route(
-        '/if/packages',
+        '/packages',
         function ($context) {
             return Viewer::view('back/viewpackage.php', $context);
         }
     ),
 
     new Route(
-        '/if/editpackage',
+        '/editpackage',
         function ($context) {
             return Viewer::view('back/editp.php', $context);
         }
     ),
 
     new Route(
-        '/if/login',
+        '/login',
         function ($context) {
             return Viewer::view('back/auth.php', $context);
         }
     ),
     new Route(
-        '/if/logout',
+        '/logout',
         function ($context) {
             return Viewer::view('back/logout.php', $context);
         }
     ),
 
     new Route(
-        '/if/appsettings',
+        '/appsettings',
         function ($context) {
             return Viewer::view('back/app.php', $context);
         }
     ),
 
     new Route(
-        '/if/addstatus',
+        '/addstatus',
         function ($context) {
             return Viewer::view('back/addstatus.php', $context);
         }
     ),
 
     new Route(
-        '/if/viewstatus',
+        '/viewstatus',
         function ($context) {
             return Viewer::view('back/viewstatus.php', $context);
         }
